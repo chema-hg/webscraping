@@ -6,7 +6,6 @@
 
 from bs4 import BeautifulSoup
 import requests
-import sys
 import webbrowser # esta instalado por defecto, nos lleva a una pagina web desde python.
 
 URL = "https://www.quefondos.com/es/fondos/ficha/index.html?isin=ES0164853014"
